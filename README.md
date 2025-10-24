@@ -1,26 +1,18 @@
 # Web Task 1 - 223101356
 
-## Project Description
-This repository contains the implementation for Web Task 1.
+## Student Information
+- Name: Mennatallah Amir Monir
+- Id: 223101356
 
-## Getting Started
-This project is currently in development.
+## Project Description
+This repository contains the implementation for the first Web Programming (CSE211) course lab assignment.
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+- Bootstrap
 
 ## Installation
 1. Clone this repository
 2. Open the project in your preferred code editor
 3. Open `index.html` in your web browser
-
-## Usage
-[Add usage instructions here]
-
-## Contributing
-[Add contribution guidelines here]
-
-## License
-[Add license information here]
